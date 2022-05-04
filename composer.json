@@ -1,0 +1,21 @@
+{
+    "name": "transpose/yii2-transposedata",
+    "description": "yii2-transposedataprovider",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension.transpose"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iDadajon",
+            "email": "idadajon@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vendor\\transpose\\": ""
+        }
+    }
+}
